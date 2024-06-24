@@ -1,1 +1,1 @@
-# seedr
+SEEDR CC Project
